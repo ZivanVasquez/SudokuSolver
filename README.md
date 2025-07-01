@@ -22,3 +22,6 @@ Big thanks to http://hodoku.sourceforge.net and http://www.sudokuwiki.org for pr
 
 * A way to toggle techniques and logging with the UI
 * Remaining techniques
+
+#Update for Raven Project
+In Visual Studio, make SudokuSolverWinForms.sln the Startup Project
